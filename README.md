@@ -5,5 +5,4 @@ Meu nome é Jean Israel, estou fazendo uma graduação em Análise e Desenvolvim
 ## Tenho conhecimento Básicos em:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"/>
 
-![Snake animation](https://github.com/Jidsx/Jidsx/blob/output/github-contribution-grid-snake.svg)
 
