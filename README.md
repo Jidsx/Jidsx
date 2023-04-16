@@ -1,10 +1,9 @@
-## Olá! 👋
+## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+👋;Bem+Vindo+ao+Meu+GitHub)
 
-Meu nome é Jean Israel. Sou Estudante de Análise e Desenvolvimento de Sistemas, no Centro Universitário Facens.
+Meu nome é Jean Israel, estou fazendo uma graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Facens.
 
 ## Tenho conhecimento Básicos em:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100"/>
 
-
-
+![Snake animation](https://github.com/Jidsx/Jidsx/blob/output/github-contribution-grid-snake.svg)
 
